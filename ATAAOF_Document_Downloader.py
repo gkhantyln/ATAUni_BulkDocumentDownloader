@@ -1,12 +1,12 @@
 import requests
 import os
 
-#OYS [Öğrenme Yönetim Sistemi] - Ders Materyalleri TOPLU İndirme#
+#OYS [ Öğrenme Yönetim Sistemi ] - Ders Materyalleri TOPLU İndirme#
 #Coded by LLCoder -- 04.10.2023 - 07:30#
 
 # Ders adları ve ders ID'leri
 dersler = {
-    'ATAAOF_inkilapTarihi1': 43755,
+    'ATAAOF_inkilapTarihi1': 14170,
     'ATAAOF_CalismaEtik1': 43755,
     'ATAAOF_GorselPrograml1': 46104,
     'ATAAOF_iletisimGiris1': 34080,
